@@ -26,3 +26,4 @@ public int[] solution(int[] lottos, int[] win_nums) {
         return new int[]{7-Math.max(cnt+zeroCnt,1),7-Math.max(cnt,1)};
     }
 }
+//프로그래머스 문제 나중에 이해 해보고 다시 풀어보도록
