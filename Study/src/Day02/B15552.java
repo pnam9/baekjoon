@@ -1,5 +1,7 @@
 package Day02;
 
+// 버퍼드리더 사용 합구하기
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
