@@ -1,5 +1,5 @@
 package Day02;
-
+//구구단
 import java.util.Scanner;
 
 public class B2739 {
