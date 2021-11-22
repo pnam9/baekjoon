@@ -1,5 +1,5 @@
 package Day02;
-
+// 합구하기 
 import java.util.Scanner;
 
 public class B10950 {
@@ -23,5 +23,4 @@ public class B10950 {
 			System.out.println(k);
 		}
 	}
- 
 }
