@@ -13,6 +13,8 @@ public class B11654 {
 		
 		int a = sc.next().charAt(0);
 		
+		sc.close();
+		
 		System.out.println(a);
 	}
 }
