@@ -13,6 +13,8 @@ public class Gittest {
 		sc.close();
 		
 		System.out.println(a);
+		
+		// git 2차테스트 수정 사항 반영
 	}
 
 }
