@@ -12,6 +12,7 @@ public class B10951 {
 			int a = sc.nextInt();
 			int b = sc.nextInt();
 			
+			sc.close();
 			
 			System.out.println(a+b);
 			
